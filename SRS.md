@@ -32,8 +32,8 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.1 Viðskiptakröfur
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| BR1 | [Lýsing á viðskiptakröfu] | [#12](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/1#issue-3363417922) x|
-| BR2 | [Lýsing á viðskiptakröfu] | [#13](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/11#issue-3363615584)x|
+| BR1 | [Spara mannafla] | [#12](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/1#issue-3363417922) x|
+| BR2 | [Stytta biðtíma fyrir viðskiptavin] | [#13](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/11#issue-3363615584)x|
 
 ### 3.2 Kerfiskrafa
 | ID  | Lýsing | Issue |
