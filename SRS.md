@@ -32,7 +32,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.1 Viðskiptakröfur
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| BR1 | [Lýsing á viðskiptakröfu] | [#12](../../issues/12) |
+| BR1 | [Lýsing á viðskiptakröfu] | [#12](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/1#issue-3363417922) |
 | BR2 | [Lýsing á viðskiptakröfu] | [#13](../../issues/13) |
 
 ### 3.2 Kerfiskrafa
