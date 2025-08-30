@@ -38,7 +38,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.2 Kerfiskrafa
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| SR1 | [Lýsing á kerfiskröfu] | [#14](../../issues/14) |
+| SR1 | [Sjálfvirkt bókasafn sem skrái, raðar og afhendir bækur] | [#14](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/9#issue-3363566402) x|
 
 ### 3.3 Fídusar (Features)
 | ID  | Lýsing | Issue |
