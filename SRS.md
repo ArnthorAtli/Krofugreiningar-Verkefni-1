@@ -54,7 +54,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | UR2 | [Skila bók á færiband] | F1 | [#19](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/14#issue-3369243076)x |
 | UR3 | [Leita að bók í kerfinu] | F2 | [#20](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/15#issue-3369244935) x|
 | UR4 | [Panta bók] | F2 | [#21](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/16#issue-3369246924) x|
-| UR5 | [Taka bók af færibandi] | F3 | [#22](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/17#issue-3369248798) x|
+| UR5 | [Lesa tilkynningu í tölvupósti] | F3 | [#22](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/17#issue-3369248798) x|
 | UR6 | [Skoða lánasögu og núverandi lán] | F3 | [#23](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/18#issue-3369250660) x|
 
 ### 3.5 Virknikröfur
