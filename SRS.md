@@ -50,12 +50,12 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.4 Notendakröfur
 | ID  | Lýsing | Fídus | Issue |
 |-----|--------|-------|-------|
-| UR1 | [Notendakrafa 1] | F1 | [#18](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1 | [#19](../../issues/19) |
-| UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23) |
+| UR1 | [Skanna bók] | F1 | [#18](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/10#issue-3363567049) x|
+| UR2 | [Skila bók á færiband] | F1 | [#19](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/14#issue-3369243076)x |
+| UR3 | [Leita að bók í kerfinu] | F2 | [#20](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/15#issue-3369244935) x|
+| UR4 | [Panta bók] | F2 | [#21](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/16#issue-3369246924) x|
+| UR5 | [Taka bók af færibandi] | F3 | [#22](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/17#issue-3369248798) x|
+| UR6 | [Skoða lánasögu og núverandi lán] | F3 | [#23](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/18#issue-3369250660) x|
 
 ### 3.5 Virknikröfur
 | ID  | Lýsing | Notendakrafa | Issue |
