@@ -60,7 +60,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.5 Virknikröfur
 | ID  | Lýsing | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
-| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#24](../../issues/24) |
+| FR1 | [Skanna bók] | UR1 | [#24](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/6#issue-3363564012) x|
 | FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
 | FR3 | [Önnur virkni] | UR1 | [#26](../../issues/26) |
 | FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
