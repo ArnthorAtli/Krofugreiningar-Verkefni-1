@@ -43,7 +43,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.3 Fídusar (Features)
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| F1  | [Lýsing á fídusi] | [#15](../../issues/15) |
+| F1  | [Sjálfvirkt útlán bókar] | [#15](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/5#issue-3363561987) x|
 | F2  | [Lýsing á fídusi] | [#16](../../issues/16) |
 | F3  | [Lýsing á fídusi] | [#17](../../issues/17) |
 
