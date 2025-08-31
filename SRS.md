@@ -75,9 +75,9 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | FR13 | [Tylkinning um of sein skil] | UR5 | [#36](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/30) x|
 | FR14 | [Tylkinning þegar pöntuð bók kemur í hús] | UR5 | [#37](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/31) x|
 | FR15 | [Tylkinning þegar það fer að koma að skiladegi] | UR5 | [#38](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/32) x|
-| FR16 | [Skoða lánasögu] | UR6 | [#39](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/33)) |
-| FR17 | [Skoða núverandi lán] | UR6 | [#40](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/34) |
-| FR18 | [Skoða hvenær þarf að skila bókum] | UR6 | [#41](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/35) |
+| FR16 | [Skoða lánasögu] | UR6 | [#39](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/33)) x|
+| FR17 | [Skoða núverandi lán] | UR6 | [#40](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/34) x|
+| FR18 | [Skoða hvenær þarf að skila bókum] | UR6 | [#41](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/35) x|
 
 ### 3.6 Viðskiptareglur
 | ID  | Lýsing | Issue |
