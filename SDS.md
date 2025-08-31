@@ -1,16 +1,16 @@
 # 🧭 System Description Specification (SDS)
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
-
+Teymi #1
+Arnþór Atli Atlason
+Kristín Sesselja Róbertsdóttir
 ## Heiti kerfis
 Sjálfvirkt Bókasafnskerfi
 
 ## Hvað er kerfið?
-Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
-
+Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bóka með það markmið að bjóða notendum sjálfsafgreiðslu og gera bókasafnið nánast óháð starfsfólki.
 ## Tilgangur
-Hvert er meginmarkmiðið með kerfinu? (t.d. einfalda ferli, bæta yfirsýn, stytta afgreiðslutíma)
+Helsti tilgangur kerfisins er að draga úr þörf fyrir starfsmanna kostnað á bókasafninu og þar með lækka rekstrarkostnað, en um leið tryggja notendum einfalt, skilvirkt og ánægjulega upplifun af útlánum og skilum bóka.
 
 ## Afmörkun (umfang viku 2)
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
