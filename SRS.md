@@ -60,9 +60,9 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 ### 3.5 Virknikröfur
 | ID  | Lýsing | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
-| FR1 | [Skanna bók] | UR1 | [#24](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/6#issue-3363564012) x|
-| FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
-| FR3 | [Önnur virkni] | UR1 | [#26](../../issues/26) |
+| FR1 | [Bókin fer úr láni hjá notanda] | UR1 | [#24](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/6#issue-3363564012) x|
+| FR2 | [Bókin bætist inn í kerfið] | UR1 | [#25](../../issues/25) |
+| FR3 | [Notandi fær skilaboð um að bókin hefur verið skiliað] | UR1 | [#26](../../issues/26) |
 | FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
 | FR5 | [Virkni] | UR2 | [#28](../../issues/28) |
 | FR6 | [Virkni] | UR2 | [#29](../../issues/29) |
