@@ -2,7 +2,7 @@
 
 ## 1. Inngangur
 ### 1.1 Tilgangur
-Stutt lýsing á tilgangi kerfisins og hverju það á að skila.
+Helsti tilgangur kerfisins er að draga úr þörf fyrir starfsmanna kostnað á bókasafninu og þar með lækka rekstrarkostnað, en um leið tryggja notendum einfalt, skilvirkt og ánægjulega upplifun af útlánum og skilum bóka.
 
 ### 1.2 Umfang
 Hvað á kerfið að gera? Afmörkun verkefnisins.
