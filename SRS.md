@@ -45,7 +45,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 |-----|--------|-------|
 | F1  | [Sjálfvirkt útlán bókar] | [#15](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/5#issue-3363561987) x|
 | F2  | [Sjálfvirk skil] | [#16](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/12#issue-3369192476)x |
-| F3  | [Sjálfvirk röðun í hillur] | [#17](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/13#issue-3369195393) x|
+| F3  | [App fyrir notendur] | [#17](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/13#issue-3369195393) x|
 
 ### 3.4 Notendakröfur
 | ID  | Lýsing | Fídus | Issue |
