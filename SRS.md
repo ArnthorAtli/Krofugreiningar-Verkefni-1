@@ -20,10 +20,12 @@ Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bók
 
 ## 2. Almenn lýsing
 ### 2.1 Notendahópar
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+Almennir notendur bókasafnsins: Einstaklingar sem nýta kerfið til að fá lánaðar bækur, skila þeim og fletta upp upplýsingum án aðstoðar starfsmanna.
+Stjórnendur bókasafnsins: Fá yfirsýn yfir útlán, skil, bókaflæði og nýtingu safnsins, auk þess að geta stillt og viðhaldið kerfinu.
 
 ### 2.2 Viðskiptaávinningur
-- Hver er ávinningurinn fyrir fyrirtæki eða notendur?
+Fyrir bókasafnið: Lækkaður rekstrarkostnaður vegna minni mannaflaþarfar, aukin skilvirkni í útlánum og skilum.
+Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og aðgengilegt kerfi sem gerir bókasafnsupplifunina hraðari og notendavænni.
 
 ---
 
