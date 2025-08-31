@@ -69,9 +69,9 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | FR7 | [Auðkenning bókar] | UR3 | [#27](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/21)x |
 | FR8 | [Notandi fær staðfestingu] | UR3 | [#28](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/22) x|
 | FR9 | [Staðfesting á skilum] | UR3 | [#29](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/23) x|
-| FR10 | [Athuga hvort bók er í pöntun] | UR4 | [#33](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/27) |
-| FR11 | [Athuga hvort bók er frá bókasafninu] | UR4 | [#34](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/28) |
-| FR12 | [Finna viðeigandi staðsetningu fyrir bókina] | UR4 | [#35](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/29) |
+| FR10 | [Athuga hvort bók er í pöntun] | UR4 | [#33](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/27) x|
+| FR11 | [Athuga hvort bók er frá bókasafninu] | UR4 | [#34](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/28) x|
+| FR12 | [Finna viðeigandi staðsetningu fyrir bókina] | UR4 | [#35](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/29) x|
 | FR13 | [Virkni] | UR5 | [#36](../../issues/36) |
 | FR14 | [Virkni] | UR5 | [#37](../../issues/37) |
 | FR15 | [Virkni] | UR5 | [#38](../../issues/38) |
