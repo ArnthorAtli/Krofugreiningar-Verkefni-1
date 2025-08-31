@@ -4,7 +4,7 @@
 [Setjið inn númer teymis og fullt nafn höfunda verkefnis]
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Sjálfvirkt Bókasafnskerfi
 
 ## Hvað er kerfið?
 Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
