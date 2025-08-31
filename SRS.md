@@ -63,9 +63,9 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | FR1 | [Bókin fer í nýja stöðu (í útláni)] | UR1 | [#24](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/6#issue-3363564012) x|
 | FR2 | [Uppfæra byrgðarstöðu bókarinnar] | UR1 | [#25](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/19) x|
 | FR3 | [Notandi fær skilaboð] | UR1 | [#26](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/20) x|
-| FR4 | [Breyta stöðu bókar þegar hún er pöntuð] | UR2 | [#27]()x |
-| FR5 | [Þegar pöntuð bók er skilað setja í pöntunarhólf] | UR2 | [#28]() x|
-| FR6 | [Hafa forgangsröð ef margir panta sömu bók] | UR2 | [#29]() x|
+| FR4 | [Breyta stöðu bókar þegar hún er pöntuð] | UR2 | [#27](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/24)x |
+| FR5 | [Þegar pöntuð bók er skilað setja í pöntunarhólf] | UR2 | [#28](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/25) x|
+| FR6 | [Hafa forgangsröð ef margir panta sömu bók] | UR2 | [#29](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/26) x|
 | FR7 | [Auðkenning bókar] | UR2 | [#27](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/21)x |
 | FR8 | [Notandi fær staðfestingu] | UR2 | [#28](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/22) x|
 | FR9 | [Staðfesting á skilum] | UR2 | [#29](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/23) x|
