@@ -61,7 +61,7 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | ID  | Lýsing | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
 | FR1 | [Bókin fer í nýja stöðu (í útláni)] | UR1 | [#24](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/6#issue-3363564012) x|
-| FR2 | [Uppfæra byrgðarstöðu bókarinnar] | UR1 | [#25](../../issues/25) |
+| FR2 | [Uppfæra byrgðarstöðu bókarinnar] | UR1 | [#25](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/19) x|
 | FR3 | [Notandi fær skilaboð] | UR1 | [#26](../../issues/26) |
 | FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
 | FR5 | [Virkni] | UR2 | [#28](../../issues/28) |
