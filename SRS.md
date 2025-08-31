@@ -63,12 +63,12 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | FR1 | [Bókin fer í nýja stöðu (í útláni)] | UR1 | [#24](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/6#issue-3363564012) x|
 | FR2 | [Uppfæra byrgðarstöðu bókarinnar] | UR1 | [#25](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/19) x|
 | FR3 | [Notandi fær skilaboð] | UR1 | [#26](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/20) x|
-| FR4 | [Auðkenning bókar] | UR2 | [#27](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/21)x |
-| FR5 | [Notandi fær staðfestingu] | UR2 | [#28](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/22) x|
-| FR6 | [Staðfesting á skilum] | UR2 | [#29](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/23) x|
-| FR7 | [Virkni] | UR3 | [#30]() |
-| FR8 | [Virkni] | UR3 | [#31](../../issues/31) |
-| FR9 | [Virkni] | UR3 | [#32](../../issues/32) |
+| FR4 | [Breyta stöðu bókar þegar hún er pöntuð] | UR2 | [#27]()x |
+| FR5 | [Þegar pöntuð bók er skilað setja í pöntunarhólf] | UR2 | [#28]() x|
+| FR6 | [Hafa forgangsröð ef margir panta sömu bók] | UR2 | [#29]() x|
+| FR7 | [Auðkenning bókar] | UR2 | [#27](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/21)x |
+| FR8 | [Notandi fær staðfestingu] | UR2 | [#28](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/22) x|
+| FR9 | [Staðfesting á skilum] | UR2 | [#29](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/23) x|
 | FR10 | [Virkni] | UR4 | [#33](../../issues/33) |
 | FR11 | [Virkni] | UR4 | [#34](../../issues/34) |
 | FR12 | [Virkni] | UR4 | [#35](../../issues/35) |
