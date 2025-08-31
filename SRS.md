@@ -5,7 +5,7 @@
 Helsti tilgangur kerfisins er að draga úr þörf fyrir starfsmanna kostnað á bókasafninu og þar með lækka rekstrarkostnað, en um leið tryggja notendum einfalt, skilvirkt og ánægjulega upplifun af útlánum og skilum bóka.
 
 ### 1.2 Umfang
-Hvað á kerfið að gera? Afmörkun verkefnisins.
+Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bóka með það markmið að bjóða notendum sjálfsafgreiðslu og gera bókasafnið nánast óháð starfsfólki.
 
 ### 1.3 Skilgreiningar
 | Hugtak | Skýring |
