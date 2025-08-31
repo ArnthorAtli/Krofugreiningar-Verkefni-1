@@ -72,9 +72,9 @@ Hvað á kerfið að gera? Afmörkun verkefnisins.
 | FR10 | [Athuga hvort bók er í pöntun] | UR4 | [#33](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/27) x|
 | FR11 | [Athuga hvort bók er frá bókasafninu] | UR4 | [#34](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/28) x|
 | FR12 | [Finna viðeigandi staðsetningu fyrir bókina] | UR4 | [#35](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/29) x|
-| FR13 | [Virkni] | UR5 | [#36](../../issues/36) |
-| FR14 | [Virkni] | UR5 | [#37](../../issues/37) |
-| FR15 | [Virkni] | UR5 | [#38](../../issues/38) |
+| FR13 | [Tylkinning um of sein skil] | UR5 | [#36](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/30) x|
+| FR14 | [Tylkinning þegar pöntuð bók kemur í hús] | UR5 | [#37](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/31) x|
+| FR15 | [Tylkinning þegar það fer að koma að skiladegi] | UR5 | [#38](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/32) x|
 | FR16 | [Virkni] | UR6 | [#39](../../issues/39) |
 | FR17 | [Virkni] | UR6 | [#40](../../issues/40) |
 | FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
