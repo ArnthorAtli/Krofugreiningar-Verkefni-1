@@ -86,7 +86,7 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 ### 3.6 Viðskiptareglur
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
+| BRG1 | [Skilaskylda] | [#42](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/2) x|
 | BRG2 | [Takmark á fjölda bóka í útláni] | [#43](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/36) x|
 
 ### 3.7 Óvirknikröfur
