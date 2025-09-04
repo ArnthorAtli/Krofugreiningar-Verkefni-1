@@ -105,7 +105,7 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
 | IF1 | [Færiband og kerfið| [#54](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/41) |
-| IF2 | [Ytra skil] | [#55](../../issues/55) |
+| IF2 | [Strikamerkjaskannari] | [#55](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/42) |
 
 ---
 
