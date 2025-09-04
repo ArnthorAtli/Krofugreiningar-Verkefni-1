@@ -13,8 +13,10 @@ Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bók
 Helsti tilgangur kerfisins er að draga úr þörf fyrir starfsmanna kostnað á bókasafninu og þar með lækka rekstrarkostnað, en um leið tryggja notendum einfalt, skilvirkt og ánægjulega upplifun af útlánum og skilum bóka.
 
 ## Afmörkun (umfang viku 2)
-**Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
+**Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.
+Helstu verkefni sem kerfið okkar á að leysa er að hafa sjálfvirka útleigu, skil og röðun á bókum í bókasafni.
 **Utan scope:** Hvað kerfið nær **ekki** yfir núna (til að halda fókus).
+Það sem mætti bæta við kerfið síðar er sjálfvirk lokun og opnun bókasafnsins og gott öryggiskerfi fyrir bókasafnið.
 
 ## Ytri tenging 
 Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við síðar.
