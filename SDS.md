@@ -1,9 +1,9 @@
 # 🧭 System Description Specification (SDS)
 
 ## Númer teymis og höfundar
-Teymi #1
-Arnþór Atli Atlason
-Kristín Sesselja Róbertsdóttir
+- Teymi #1
+- Arnþór Atli Atlason
+- Kristín Sesselja Róbertsdóttir
 ## Heiti kerfis
 Sjálfvirkt Bókasafnskerfi
 
