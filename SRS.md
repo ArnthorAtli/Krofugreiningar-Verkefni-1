@@ -14,7 +14,7 @@ Kerfið er sjálfvirkt bókasafnskerfi sem sér um útlán, skil og flokkun bók
 | Issue | Umræða/atriði í GitHub sem tengist ákveðinni kröfu |
 
 ### 1.4 Tilvísanir
-- IEEE 830 Standard (fyrirmynd að uppbyggingu SRS)
+- ISO/IEC/IEEE International Standard - Systems and software engineering -- Life cycle processes -- Requirements engineering," in ISO/IEC/IEEE 29148:2018(E) , vol., no., pp.1-104, 30 Nov. 2018, doi: 10.1109/IEEESTD.2018.8559686.ISO/IEC/IEEE 29
 
 ---
 
