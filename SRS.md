@@ -98,7 +98,7 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 ### 3.8 Takmarkanir
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| C1 | [Takmörkun] | [#52](../../issues/52) |
+| C1 | [Takmörkuð stærð á bók] | [#52](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/39) x|
 | C2 | [Takmörkun] | [#53](../../issues/53) |
 
 ### 3.9 Ytri skil (Interfaces)
