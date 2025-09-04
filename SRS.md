@@ -93,7 +93,7 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
 | QR1 | [Svörunartími] | [#50](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/37) x|
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
+| QR2 | [Áreiðanleiki] | [#51](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/38) x|
 
 ### 3.8 Takmarkanir
 | ID  | Lýsing | Issue |
