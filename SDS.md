@@ -15,14 +15,15 @@ Helsti tilgangur kerfisins er að draga úr þörf fyrir starfsmanna kostnað á
 ## Afmörkun (umfang viku 2)
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.
 Helstu verkefni sem kerfið okkar á að leysa er að hafa sjálfvirka útleigu, skil og röðun á bókum í bókasafni.
+
 **Utan scope:** Hvað kerfið nær **ekki** yfir núna (til að halda fókus).
-Það sem mætti bæta við kerfið síðar er sjálfvirk lokun og opnun bókasafnsins og gott öryggiskerfi fyrir bókasafnið.
+Það sem mætti bæta við kerfið síðar er sjálfvirk lokun og opnun bókasafnsins og gott öryggiskerfi fyrir bókasafnið til þess að reyna að hafa alveg starfsmannalaust bókasafn.
 
 ## Ytri tenging 
-Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við síðar.
+Hugsanleg ytri kerfi er öriggiskerfi eins og Securitas fyrir gott öriggi á bókasafninu ef það endar að vera alveg starfsmannalaust.
 
 ## Tenging við SRS
-- Sjá nánari kröfuskipan í `SRS.md` (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
+- Sjá nánari kröfuskipan í `SRS.md`
 
 ## Verkaskipting
 - Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
