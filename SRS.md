@@ -104,7 +104,7 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 ### 3.9 Ytri skil (Interfaces)
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
-| IF1 | [Ytra skil] | [#54](../../issues/54) |
+| IF1 | [Snertiskjár - leita að bók | [#54](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/41) |
 | IF2 | [Ytra skil] | [#55](../../issues/55) |
 
 ---
