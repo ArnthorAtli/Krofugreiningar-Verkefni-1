@@ -112,7 +112,9 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 ## 4. Viðaukar
 ### 4.1 Orðalisti
 - Skilgreina lykilhugtök.
+- Engin hugtök voru notuð sem þarf að útskýra nánar.
 
 ### 4.2 Samþykktir
 - Kennari: ____________________  
+- Nemandi: Arnþór Atli Atlason
 - Nemandi: ____________________
