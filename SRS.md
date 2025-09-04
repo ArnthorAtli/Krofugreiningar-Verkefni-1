@@ -112,7 +112,14 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 ## 4. Viðaukar
 ### 4.1 Orðalisti
 - Skilgreina lykilhugtök.
-- Engin hugtök voru notuð sem þarf að útskýra nánar.
+- Bókasafn
+- Áskrift
+- Færiband
+- Sjálfvirkt
+- Röðun
+- Lán
+- Skil
+- Sjálfsafgreiðsla
 
 ### 4.2 Samþykktir
 - Kennari: ____________________  
