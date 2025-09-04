@@ -99,7 +99,7 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
 | C1 | [Takmörkuð stærð á bók] | [#52](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/39) x|
-| C2 | [Takmörkun] | [#53](../../issues/53) |
+| C2 | [Gillt skirteini] | [#53](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/40) |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID  | Lýsing | Issue |
