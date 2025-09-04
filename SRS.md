@@ -117,4 +117,4 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 ### 4.2 Samþykktir
 - Kennari: ____________________  
 - Nemandi: Arnþór Atli Atlason
-- Nemandi: ____________________
+- Nemandi: Kristín Sesselja Róbertsdóttir
