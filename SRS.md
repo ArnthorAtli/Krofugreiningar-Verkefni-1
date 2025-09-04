@@ -89,29 +89,19 @@ Fyrir notendur: Fljótleg og þægileg sjálfsafgreiðsla, minni biðraðir og a
 | BRG1 | [Skilaskylda] | [#42](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/2) x|
 | BRG2 | [Takmark á fjölda bóka í útláni] | [#43](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/issues/36) x|
 
-### 3.7 Óvirknikröfur
-| ID  | Lýsing | Issue |
-|-----|--------|-------|
-| NFR1 | [Óvirknikrafa] | [#44](../../issues/44) |
-| NFR2 | [Óvirknikrafa] | [#45](../../issues/45) |
-| NFR3 | [Óvirknikrafa] | [#46](../../issues/46) |
-| NFR4 | [Óvirknikrafa] | [#47](../../issues/47) |
-| NFR5 | [Óvirknikrafa] | [#48](../../issues/48) |
-| NFR6 | [Óvirknikrafa] | [#49](../../issues/49) |
-
-### 3.8 Gæðaeiginleikar
+### 3.7 Gæðaeiginleikar
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
 | QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
 | QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
 
-### 3.9 Takmarkanir
+### 3.8 Takmarkanir
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
 | C1 | [Takmörkun] | [#52](../../issues/52) |
 | C2 | [Takmörkun] | [#53](../../issues/53) |
 
-### 3.10 Ytri skil (Interfaces)
+### 3.9 Ytri skil (Interfaces)
 | ID  | Lýsing | Issue |
 |-----|--------|-------|
 | IF1 | [Ytra skil] | [#54](../../issues/54) |
