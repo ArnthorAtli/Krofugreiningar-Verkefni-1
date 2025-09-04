@@ -23,12 +23,12 @@ Helstu verkefni sem kerfið okkar á að leysa er að hafa sjálfvirka útleigu,
 Hugsanleg ytri kerfi er öriggiskerfi eins og Securitas fyrir gott öriggi á bókasafninu ef það endar að vera alveg starfsmannalaust.
 
 ## Tenging við SRS
-- Sjá nánari kröfuskipan í `SRS.md`
+- Sjá nánari kröfuskipan í [SRS.md](https://github.com/ArnthorAtli/Krofugreiningar-Verkefni-1/blob/main/SRS.md)
 
 ## Verkaskipting
-- Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
-- Hvernig þið rýnduð kröfurnar hjá hvert öðru
-- Hvernig þið gerðuð pull, commit og push
+- Við ræddum saman og ákvöddum kerfi í fyrsta tímanum. Í seinni tímanum ræddum við saman mögulegar kröfur og gerðum saman 2 viðskiptakröfur og 1 kerfiskröfu. Svo skiptum við því þannig að Kristín tók 3 fídusa og 6 notendakröfur og Arnþór 3 virkniskröfur fyrir hverja notendakröfu og 2 viðskiptareglur. Svo gerðum við 6 óvirkniskröfunar saman í þriðja tímanum.
+- Við lásum yfir hjá hvort öðru og ræddum saman ef við vorum ekki sammála með kröfur.
+- Við edituðum allt á github og þurftum því aldrei að pull-a  og push-a bara committa eftir hvert edit.
 
 ## Ígrundun
 - Í lok verkefnis gerið endurmat á verkefninu:
