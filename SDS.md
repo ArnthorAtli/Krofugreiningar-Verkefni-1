@@ -33,5 +33,8 @@ Hugsanleg ytri kerfi er öriggiskerfi eins og Securitas fyrir gott öriggi á b�
 ## Ígrundun
 - Í lok verkefnis gerið endurmat á verkefninu:
 
-Hvað gekk vel í verkefninu
-Hvað má bæta næst
+- Hvað gekk vel í verkefninu
+Verkefnið gekk vel að mestu leyti, sérstaklega þar sem við náðum fljótt að ákveða hugmyndina og dreifa verkunum á milli okkar. Við unnum vel saman sem lið og nýttum tímana vel til að ræða kröfurnar.
+
+- Hvað má bæta næst
+Það mætti skipuleggja vinnuna enn betur, t.d. með því að setja upp tímalínu eða verkáætlun í byrjun.
